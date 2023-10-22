@@ -1,0 +1,5 @@
+Hey ${PERSON_NAME}!, 
+
+New sneakers have appeared in nike snkrs app! check out the following links for details ;)
+
+${NEW_SNEAKERS}
