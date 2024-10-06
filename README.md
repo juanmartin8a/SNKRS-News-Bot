@@ -1,5 +1,6 @@
 # SNKRS News Bot
-Old project from 2020 - 2021
+![Started](https://img.shields.io/badge/Started-Nov%202020-blue%20green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202020-blue.svg?color=informational)
 
 This script tracks and sends emails about the upcoming shoes on the SNKRS app :)
 
